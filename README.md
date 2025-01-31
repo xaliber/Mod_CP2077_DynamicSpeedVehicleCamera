@@ -1,6 +1,6 @@
 # Dynamic Speed Vehicle Camera
 
-This mod automatically picks your camera perspective based on your vehicle speed (see video).
+This mod automatically picks your camera perspective based on your vehicle speed.
 
 Slowest speed will auto-switch you to first person view camera; fastest speed will auto-switch you to farthest third person camera. Speed value is configurable via Mod Settings menu. The mod smartly adjusts max speed based on your driving (the value resets after you leave the vehicle).
 
